@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-heroku",
+  "version": "1.0.0",
+  "description": "Nodejs sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Miguelsiqueiros/Nodejs-Heroku.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Miguel Siqueiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguelsiqueiros/Nodejs-Heroku/issues"
+  },
+  "homepage": "https://github.com/Miguelsiqueiros/Nodejs-Heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
